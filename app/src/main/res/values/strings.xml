@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskReward</string>
+    <string name="app_subtitle">Complete tasks and collect reward points</string>
+    <string name="demo_rewards">DEMO REWARDS</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_wallet">Wallet</string>
+    <string name="nav_profile">Profile</string>
+</resources>

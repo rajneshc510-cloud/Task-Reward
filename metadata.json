@@ -1,0 +1,6 @@
+{
+  "name": "TaskReward",
+  "description": "Native Android rewards and task mobile app built with Jetpack Compose & Material 3. Complete tasks and collect demo reward points.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
